@@ -1,0 +1,110 @@
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\libman.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.exe
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.deps.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.dev.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.AssemblyReference.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.GeneratedMSBuildEditorConfig.editorconfig
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfoInputs.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CoreCompileInputs.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.MvcApplicationPartsAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Manifest.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.input.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.output.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorCoreGenerate.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CopyComplete
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.genruntimeconfig.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\Embed for your customers\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\appsettings.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\libman.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.exe
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.deps.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.runtimeconfig.dev.json
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.PowerBI.Api.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.AssemblyReference.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.GeneratedMSBuildEditorConfig.editorconfig
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfoInputs.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.AssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CoreCompileInputs.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.MvcApplicationPartsAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorAssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\staticwebassets\AppOwnsData.StaticWebAssets.Manifest.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.input.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.TagHelpers.output.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorCoreGenerate.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cache
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.RazorTargetAssemblyInfo.cs
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.Views.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.csproj.CopyComplete
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.dll
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.pdb
+E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\obj\Debug\netcoreapp3.1\AppOwnsData.genruntimeconfig.cache

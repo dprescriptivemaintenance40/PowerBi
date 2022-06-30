@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AppOwnsData
+build_property.ProjectDir = E:\PowerBiApp\PowerBI-Developer-Samples-master\.NET Core\PowerBiApp\AppOwnsData\
