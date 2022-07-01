@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PowerBiApp\\PowerBI-Developer-Samples-master\\.NET Core\\PowerBiApp\\AppOwnsData\\PowerBiApp.csproj": {}
+    "G:\\PowerBi\\AppOwnsData\\PowerBiApp.csproj": {}
   },
   "projects": {
-    "E:\\PowerBiApp\\PowerBI-Developer-Samples-master\\.NET Core\\PowerBiApp\\AppOwnsData\\PowerBiApp.csproj": {
+    "G:\\PowerBi\\AppOwnsData\\PowerBiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PowerBiApp\\PowerBI-Developer-Samples-master\\.NET Core\\PowerBiApp\\AppOwnsData\\PowerBiApp.csproj",
+        "projectUniqueName": "G:\\PowerBi\\AppOwnsData\\PowerBiApp.csproj",
         "projectName": "PowerBiApp",
-        "projectPath": "E:\\PowerBiApp\\PowerBI-Developer-Samples-master\\.NET Core\\PowerBiApp\\AppOwnsData\\PowerBiApp.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "E:\\PowerBiApp\\PowerBI-Developer-Samples-master\\.NET Core\\PowerBiApp\\AppOwnsData\\obj\\",
+        "projectPath": "G:\\PowerBi\\AppOwnsData\\PowerBiApp.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "G:\\PowerBi\\AppOwnsData\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

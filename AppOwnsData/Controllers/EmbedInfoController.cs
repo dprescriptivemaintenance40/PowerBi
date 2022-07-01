@@ -2,22 +2,21 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT license.
 // ----------------------------------------------------------------------------
+using AppOwnsData.Models;
+using AppOwnsData.Services;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using System;
+using System.Dynamic;
+using System.IO;
+using System.Text.Json;
 
 namespace AppOwnsData.Controllers
 {
-    using AppOwnsData.Models;
-    using AppOwnsData.Services;
-    using Microsoft.AspNetCore.Cors;
-    using Microsoft.AspNetCore.Mvc;
-    using Microsoft.Extensions.Configuration;
-    using Microsoft.Extensions.Options;
-    using Newtonsoft.Json;
-    using Newtonsoft.Json.Converters;
-    using System;
-    using System.Dynamic;
-    using System.IO;
-    using System.Text.Json;
-
     [EnableCors("MyPolicy")]
     public class EmbedInfoController : Controller
     {

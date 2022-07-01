@@ -2,17 +2,16 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT license.
 // ----------------------------------------------------------------------------
+using AppOwnsData.Models;
+using AppOwnsData.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 namespace AppOwnsData
 {
-    using AppOwnsData.Models;
-    using AppOwnsData.Services;
-    using Microsoft.AspNetCore.Builder;
-    using Microsoft.AspNetCore.Hosting;
-    using Microsoft.Extensions.Configuration;
-    using Microsoft.Extensions.DependencyInjection;
-    using Microsoft.Extensions.Hosting;
-
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -38,7 +37,7 @@ namespace AppOwnsData
 
             services.AddCors(o => o.AddPolicy("MyPolicy", builder =>
             {
-                builder.WithOrigins("http://localhost:5025")
+                builder.WithOrigins("https://www.dpmaianalytics.com/")
                        .AllowAnyMethod()
                        .AllowAnyHeader();
             }));
